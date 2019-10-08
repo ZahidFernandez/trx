@@ -13,5 +13,5 @@ steps:
 - task: PublishTestResults@2
   inputs:
     testResultsFormat: 'XUnit'
-    testResultsFiles: 'unit-test-results.trx'
+    testResultsFiles: 'unit-test-reults.trx'
 
